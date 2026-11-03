@@ -1,3 +1,3 @@
 # superagent
 
-dsh-superagent 本地联调测试仓库。
+dsh-superagent 飞书联调测试仓库。
